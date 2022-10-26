@@ -9,7 +9,7 @@ Url：{{BaseUrl}}/portal/login
 RequestMethod:Post
 Content-Type:application/json
 请求参数：
-| -- | -- | -- | -- | -- |
+| :---- | :---- | :---- | :---- | :---- |
 |参数名|必填|数据类型|说明|备注|
 | mobile | 是 | String | 手机号码 | -- |
 | smsCode | 是 | String | 短信验证码 | -- |
